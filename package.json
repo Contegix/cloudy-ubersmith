@@ -11,11 +11,11 @@
       "url": "https://github.com/contegix/node-ubersmith"
   },
   "bugs": {
-      "url": "https://github.com/johann8384/node-ubersmith/issues/new"
+      "url": "https://github.com/contegix/node-ubersmith/issues/new"
   },
   "license": {
       "type": "MIT",
-      "url": "https://github.com/johann8384/node-ubersmith/blob/master/LICENSE"
+      "url": "https://github.com/contegix/node-ubersmith/blob/master/LICENSE"
   },
   "main" : "./lib/ubersmith.js",
   "dependencies": {
