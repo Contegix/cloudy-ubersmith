@@ -1,0 +1,26 @@
+{
+  "name": "ubersmith",
+  "description": "Ubersmith",
+  "version": "0.0.1",
+  "author": {
+      "name": "Jonathan Creasy",
+      "email": "jonathan.creasy@gmail.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/contegix/node-ubersmith"
+  },
+  "bugs": {
+      "url": "https://github.com/johann8384/node-ubersmith/issues/new"
+  },
+  "license": {
+      "type": "MIT",
+      "url": "https://github.com/johann8384/node-ubersmith/blob/master/LICENSE"
+  },
+  "main" : "./lib/ubersmith.js",
+  "dependencies": {
+    "request": "2.27.0",
+    "events": "0.5.0"
+  }
+}
+
