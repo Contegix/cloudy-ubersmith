@@ -1,7 +1,7 @@
 {
   "name": "ubersmith",
   "description": "Ubersmith",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": {
     "name": "Jonathan Creasy",
     "email": "jonathan.creasy@gmail.com"
@@ -26,8 +26,9 @@
   "readmeFilename": "README.md",
   "_id": "ubersmith@0.0.1",
   "dist": {
-    "shasum": "9dad05f34371f6cd6aa105c0e03db2df5d6b9162"
+    "shasum": "ebfd01155ffea0425ee104a0e43c27c4ba7b876e"
   },
-  "_from": "https://github.com/Contegix/node-ubersmith/tarball/0.0.1",
-  "_resolved": "https://github.com/Contegix/node-ubersmith/tarball/0.0.1"
+  "_from": "https://github.com/Contegix/node-ubersmith/tarball/0.0.3",
+  "_resolved": "https://github.com/Contegix/node-ubersmith/tarball/0.0.3",
+  "homepage": "https://github.com/contegix/node-ubersmith"
 }
