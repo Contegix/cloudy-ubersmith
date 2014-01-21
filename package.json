@@ -1,7 +1,7 @@
 {
   "name": "ubersmith",
   "description": "Ubersmith",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "author": {
     "name": "Jonathan Creasy",
     "email": "jonathan.creasy@gmail.com"
@@ -20,15 +20,9 @@
   "main": "./lib/ubersmith.js",
   "dependencies": {
     "request": "2.27.0",
+    "node-contegix-logger": "https://github.com/Contegix/node-contegix-logger/tarball/0.0.1",
     "events": "0.5.0"
   },
   "readme": "node-ubersmith\n==============\n\nUbersmith Module for NodeJS\n",
   "readmeFilename": "README.md",
-  "_id": "ubersmith@0.0.1",
-  "dist": {
-    "shasum": "ebfd01155ffea0425ee104a0e43c27c4ba7b876e"
-  },
-  "_from": "https://github.com/Contegix/node-ubersmith/tarball/0.0.3",
-  "_resolved": "https://github.com/Contegix/node-ubersmith/tarball/0.0.3",
-  "homepage": "https://github.com/contegix/node-ubersmith"
 }

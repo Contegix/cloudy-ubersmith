@@ -14,13 +14,15 @@ ubersmith.uberRefreshData('device.list');
 ubersmith.uberScheduleRefresh('device.list', 1);
 
 ubersmith.on('ready.device.list',
-  function(body) {
+  function (body)
+  {
     console.log(body);
   }
 );
 
 ubersmith.on('failed.device.list',
-  function(err) {
+  function (err)
+  {
     console.log(err);
   }
 );
@@ -29,13 +31,15 @@ ubersmith.uberRefreshData('client.list');
 ubersmith.uberScheduleRefresh('client.list', 10);
 
 ubersmith.on('ready.client.list',
-  function(body) {
+  function (body)
+  {
     console.log(body);
   }
 );
 
 ubersmith.on('failed.client.list',
-  function(err) {
+  function (err)
+  {
     console.log(err);
   }
 );
