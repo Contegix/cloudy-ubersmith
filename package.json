@@ -20,7 +20,7 @@
   "main": "./lib/ubersmith.js",
   "dependencies": {
     "request": "2.27.0",
-    "node-contegix-logger": "https://github.com/Contegix/node-contegix-logger/tarball/0.0.2",
+    "node-contegix-logger": "https://github.com/Contegix/node-contegix-logger/tarball/0.1.0",
     "events": "0.5.0"
   },
   "readme": "node-ubersmith\n==============\n\nUbersmith Module for NodeJS\n",
