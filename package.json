@@ -1,7 +1,7 @@
 {
   "name": "cloudy-ubersmith",
   "description": "Ubersmith Module used by Cloudy Kangaroo",
-  "version": "0.1.11",
+  "version": "0.1.14",
   "author": {
     "name": "Jonathan Creasy",
     "email": "jonathan.creasy@gmail.com"
@@ -20,7 +20,7 @@
   "main": "./lib/ubersmith.js",
   "dependencies": {
     "request": "2.27.0",
-    "node-contegix-logger": "https://github.com/Contegix/node-contegix-logger/tarball/0.1.0",
+    "contegix-logger": "0.1.x",
     "events": "0.5.0"
   }
 }
