@@ -1,7 +1,7 @@
 {
   "name": "cloudy-ubersmith",
   "description": "Ubersmith Module used by Cloudy Kangaroo",
-  "version": "0.1.19",
+  "version": "0.2.0",
   "author": {
     "name": "Jonathan Creasy",
     "email": "jonathan.creasy@gmail.com"
@@ -21,6 +21,11 @@
   "dependencies": {
     "request": "2.33.0",
     "contegix-logger": "0.1.x",
-    "events": "0.5.0"
+    "cache-manager": "0.3.x",
+    "redis": "0.9.x",
+    "events": "0.5.0",
+    "uuid": "1.4.x",
+    "async": "0.2.x",
+    "underscore": "1.4.x"
   }
 }
