@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/contegix/node-ubersmith"
+    "url": "https://github.com/contegix/cloudy-ubersmith"
   },
   "bugs": {
-    "url": "https://github.com/contegix/node-ubersmith/issues/new"
+    "url": "https://github.com/contegix/cloudy-ubersmith/issues/new"
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/contegix/node-ubersmith/blob/master/LICENSE"
+    "url": "https://github.com/contegix/cloudy-ubersmith/blob/master/LICENSE"
   },
   "main": "./lib/ubersmith.js",
   "dependencies": {
